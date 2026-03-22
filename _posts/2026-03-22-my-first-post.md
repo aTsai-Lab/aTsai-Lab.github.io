@@ -1,4 +1,9 @@
 ---
+title: My First Post
+date: 2026-03-22
+categories: [Learning]
+---
+---
 title: 我的第一篇文章
 date: 2026-03-22
 ---
