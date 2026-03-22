@@ -1,3 +1,8 @@
+title: GPO bat file path check by gpresult
+date: 2026-03-22
+categories: [Windows, IT]
+
+
 在該台電腦上執行：
 
 gpresult /h C:\temp\gpo.html
